@@ -7,3 +7,10 @@ venv/
 .venv/
 env/
 
+__pycache__/
+.venv/
+venv/
+*.pyc
+tasks.pkl
+tasks.json
+tasks_data.json
